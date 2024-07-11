@@ -1,0 +1,43 @@
+{
+    "classes": {
+        "0": "TE03",
+        "1": "DE02",
+        "2": "EI01",
+        "3": "DE01",
+        "4": "TE02",
+        "5": "DE03",
+        "6": "TE01",
+        "7": "MT01",
+        "8": "LS02",
+        "9": "LS03",
+        "10": "LS01",
+        "11": "TE05",
+        "12": "TE04",
+        "13": "LS04",
+        "14": "DE04",
+        "15": "TE06",
+        "16": "MT02",
+        "17": "DE05"
+    },
+    "database_host": "database_host",
+    "database_user": "database_user",
+    "database_password": "database_password",
+    "database_name": "database_name",
+    
+    "firebase_credentials_path": "firebase_credentials_path",
+    "firebase_storage_bucket": "firebase_storage_bucket",
+    "model_path": "models/best.pt",
+    
+    "clear_temp": true,
+    
+    "confidence_threshold": 0.2,
+    "frame_skip": 2,
+    "buffer_size": 35,
+    "min_frames_for_logging": 35,
+    "movement_threshold": 30,
+    
+    "frame_width": 640,
+    "frame_height": 640,
+    "local_video_path": "path_to_your_footage",
+    "enable_preview": true
+}
